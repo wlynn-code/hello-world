@@ -2,5 +2,6 @@
 #include <string.h>
 int main(){
 	printf("master\n");
+	printf("two\n")
 	return 0;
 }
