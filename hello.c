@@ -2,6 +2,6 @@
 #include <string.h>
 int main(){
 	printf("hello\n");
-	printf("001\n");
+	printf("0011\n");
 	return 0;
 }
